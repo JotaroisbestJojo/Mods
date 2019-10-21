@@ -42,4 +42,4 @@ body {
 <br>
 <br>
 <br>
-<a href="modhome.html" style="margin:20px auto; text-align:center; display:block; width:120px;" class="button large hpbottom">Back to home.</a>
+<a href="modhome.php" style="margin:20px auto; text-align:center; display:block; width:120px;" class="button large hpbottom">Back to home.</a>
