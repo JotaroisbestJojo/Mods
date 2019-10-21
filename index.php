@@ -42,8 +42,8 @@ body {
 <nav><ul class="tabs">
 <li class="firsttab">
 <ul>
-<li><a href="XCOM2.html"><img src="300px-XCOM_2_cover.jpg" width="150" height="200"></a></li>
-<li><a href="SKYRIM.html"><img src="220px-The_Elder_Scrolls_V_Skyrim_cover.jpg" width="150" height="200"></a></li>
-<li><a href="DARKDUNGEON.html"><img src="darkest-dungeon-cover.jpg" width="150" height="200"></a></li>
+<li><a href="XCOM2.php"><img src="300px-XCOM_2_cover.jpg" width="150" height="200"></a></li>
+<li><a href="SKYRIM.php"><img src="220px-The_Elder_Scrolls_V_Skyrim_cover.jpg" width="150" height="200"></a></li>
+<li><a href="DARKDUNGEON.php"><img src="darkest-dungeon-cover.jpg" width="150" height="200"></a></li>
 </ul>
 </li>
