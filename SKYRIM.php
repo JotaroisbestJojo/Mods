@@ -149,4 +149,4 @@ Official Dragonborn DLC.</font></p>
 <br>
 <br>
 <br>
-<a href="modhome.php" style="margin:20px auto; text-align:center; display:block; width:120px;" class="button large hpbottom">Back to home.</a>
+<a href="index.php" style="margin:20px auto; text-align:center; display:block; width:120px;" class="button large hpbottom">Back to home.</a>
